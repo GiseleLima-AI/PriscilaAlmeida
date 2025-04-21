@@ -81,6 +81,7 @@ body {
     font-family: var(--fonte-secundaria);
     font-weight: 400;
     color: var(--cor-secundaria);
+    text-decoration: none;
 }
 
 .apresentacao__conteudo__textocard {
