@@ -33,7 +33,7 @@ body {
 .cabecalho__menu__link {
     font-family: var(--fonte-primaria);
     font-size: 1.2rem;
-    font-weight: 600;
+    font-weight: 200;
     text-align: center;
     color:var(--cor-terciaria);
     text-decoration: none;
@@ -56,18 +56,20 @@ body {
 }
 
 .apresentacao__conteudo__titulo {
-    font-size:1.4rem;
+    font-size:1.2rem;
+    font-weight: 200;
     font-family: var(--fonte-primaria);
 }
 
 .apresentacao__conteudo__titulocard {
-    font-size:1.4rem;
+    font-size:1.2rem;
+    font-weight: 200;
     font-family: var(--fonte-primaria);
 }
 .titulo_nome {
     padding: 5% 5%;
     font-family: var(--fonte-primaria);
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 400;
     color: var(--cor-secundaria);
     text-align: center;
@@ -77,27 +79,26 @@ body {
 }
 
 .apresentacao__conteudo__texto {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    font-weight: 200;
     font-family: var(--fonte-secundaria);
-    font-weight: 400;
     color: var(--cor-secundaria);
     text-decoration: none;
 }
 
 .apresentacao__conteudo__textocard {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
+    font-weight: 200;
     font-family: var(--fonte-secundaria);
-    font-weight: 400;
     color: var(--cor-secundaria);
 }
 .apresentacao__conteudo__textlink {
     font-family: var(--fonte-primaria);
     font-size: 1.2rem;
-    font-weight: 600;
+    font-weight: 200;
     color:var(--cor-terciaria);
     text-align: center;
     text-decoration: none;
-    font-weight: 400;
 }
 .apresentacao__links {
     display: flex;
@@ -109,8 +110,8 @@ body {
 
 .apresentacao__links__subtitulo {
     font-family: var(--fonte-secundaria);
-    font-size:1.4rem;
-    font-weight: 400;
+    font-size:1.2rem;
+    font-weight: 200;
 }
 
 .apresentacao__links__navegacao {
@@ -120,10 +121,10 @@ body {
     /*width: 50%; */
     border: 2px solid var(--cor-terciaria);
     border-radius: 9px;
-    font-size:1rem;
+    font-size:1.2rem;
+    font-weight: 200;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
-    font-weight: 600; 
     font-style: normal;
     text-align: center;
     text-decoration: none;
@@ -144,8 +145,8 @@ body {
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     font-family: var(--fonte-secundaria);
-    font-size: 1rem;
-    font-weight: 400;
+    font-size: 1.2rem;
+    font-weight: 200;
 }
 
 @media (max-width: 1200px) {
