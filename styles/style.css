@@ -31,7 +31,7 @@ body {
 }
 
 .cabecalho__menu__link {
-    font-family: var(--fonte-primaria);
+    font-family: var(--fonte-secundaria);
     font-size: 1.2rem;
     font-weight: 200;
     text-align: center;
@@ -58,17 +58,17 @@ body {
 .apresentacao__conteudo__titulo {
     font-size:1.2rem;
     font-weight: 200;
-    font-family: var(--fonte-primaria);
+    font-family: var(--fonte-secundaria);
 }
 
 .apresentacao__conteudo__titulocard {
     font-size:1.2rem;
     font-weight: 200;
-    font-family: var(--fonte-primaria);
+    font-family: var(--fonte-secundaria);
 }
 .titulo_nome {
     padding: 5% 5%;
-    font-family: var(--fonte-primaria);
+    font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     font-weight: 400;
     color: var(--cor-secundaria);
@@ -93,7 +93,7 @@ body {
     color: var(--cor-secundaria);
 }
 .apresentacao__conteudo__textlink {
-    font-family: var(--fonte-primaria);
+    font-family: var(--fonte-secundaria);
     font-size: 1.2rem;
     font-weight: 200;
     color:var(--cor-terciaria);
