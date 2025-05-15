@@ -80,12 +80,18 @@ body {
 
 .apresentacao__conteudo__texto {
     font-size: 1.2rem;
-    font-weight: 200;
     font-family: var(--fonte-secundaria);
+    font-weight: 200;
     color: var(--cor-secundaria);
+    border-radius: 25px;
+    border: 2px solid var(--cor-terciaria);
+    padding: 20px; 
+    width: 80;
+    height: 300;
+    /*text-align: center;*/
+    letter-spacing: 1px;
     text-decoration: none;
 }
-
 .apresentacao__conteudo__textocard {
     font-size: 1.2rem;
     font-weight: 200;
