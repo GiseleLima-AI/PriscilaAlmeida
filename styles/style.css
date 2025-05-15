@@ -149,8 +149,8 @@ body {
 .rodape {
     padding: 10px 0px 0px 0px;
     text-align: center;
-    color: var(--cor-primaria);
-    font-family: var(--fonte-primaria);
+    color: var(--cor-secundaria);
+    font-family: var(--fonte-secundaria);
     font-size: .8rem;
     font-weight: 100;
     text-decoration: none;
@@ -165,8 +165,8 @@ body {
     border-radius: 9px;*/
     font-size:.8rem;
     font-weight: 100;
-    color: var(--cor-primaria);
-    font-family: var(--fonte-primaria);
+    color: var(--cor-secundaria);
+    font-family: var(--fonte-secundaria);
     font-style: normal;
     text-align: center;
     text-decoration: none;
